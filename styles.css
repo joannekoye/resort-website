@@ -1,0 +1,15 @@
+h1 {
+  color: darkred;
+  text-align: center;
+}
+h2 {
+  font-style: italic;
+  text-align: center;
+  color: darkred;
+}
+p {
+  text-align: center;
+}
+body {
+  background-color: rgb(168, 200, 238);
+}
